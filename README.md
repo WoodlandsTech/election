@@ -13,14 +13,25 @@
 1. Request first and last name as appears on voter registration
 2. Likely to need additional information if duplicate names in county
 
-### Presentation
+### Results Presentation
 
-1. Show the found name and the status of ballots as explained in "references/Notice of Voting Order Priority for Web.pdf"
+#### Found results
+1. Show results on new web page?
+1. Show the found name.
+1. Show date of each status update
+2. Show the status of ballots as explained in [Notice of Voting Order Priority for Web](https://github.com/rmerriam/election/blob/main/references/Notice%20of%20Voting%20Order%20Priority%20for%20Web.pdf)
+    
+#### Failed retrevial
+1. Message that results not found
+2. Advise checking spelling on registration card.
+3. Provide link to MoCo Election site for checking registration
+   
 
 ### Footer
 
 1. Show promotional line like "Web site provided by Woodlands Area Software Enthusiats"
 2. Disclaimer: "Not responsible for accuracy of data. Use with caution."
+3. Copyright?
 
 
 
