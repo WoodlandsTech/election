@@ -20,7 +20,7 @@
 1. Show the found name.
 1. Show date of each status update
 2. Show the status of ballots as explained in [Notice of Voting Order Priority for Web](https://github.com/rmerriam/election/blob/main/references/Notice%20of%20Voting%20Order%20Priority%20for%20Web.pdf)
-2. Show voting entities, i.e. election name column, e.g. CISD, Township, County?
+2. Show voting entities, i.e. election name column, e.g. CISD, Township, County? 
     
 #### Failed retrevial
 1. Message that results not found
