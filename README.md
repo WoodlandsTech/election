@@ -32,6 +32,8 @@
 1. Show promotional line like "Web site provided by Woodlands Area Software Enthusiats"
 2. Disclaimer: "Not responsible for accuracy of data. Use with caution."
 3. Copyright?
+4. Link to meetup or link to a website that is more than a "join slack" page which doesn't work.
+
 
 
 
