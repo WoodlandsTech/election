@@ -20,6 +20,7 @@
 1. Show the found name.
 1. Show date of each status update
 2. Show the status of ballots as explained in [Notice of Voting Order Priority for Web](https://github.com/rmerriam/election/blob/main/references/Notice%20of%20Voting%20Order%20Priority%20for%20Web.pdf)
+2. Show voting entities, i.e. election name column, e.g. CISD, Township, County?
     
 #### Failed retrevial
 1. Message that results not found
@@ -32,6 +33,8 @@
 1. Show promotional line like "Web site provided by Woodlands Area Software Enthusiats"
 2. Disclaimer: "Not responsible for accuracy of data. Use with caution."
 3. Copyright?
+4. Link to meetup or link to a website that is more than a "join slack" page which doesn't work.
+
 
 
 
