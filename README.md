@@ -12,6 +12,7 @@
 
 1. Request first and last name as appears on voter registration
 2. Likely to need additional information if duplicate names in county
+3. Should we capitalize first letter of names to avoid bad results?
 
 ### Results Presentation
 
@@ -26,6 +27,7 @@
 1. Message that results not found
 2. Advise checking spelling on registration card.
 3. Provide link to MoCo Election site for checking registration
+4. Allow entry / edit of names on this page? Or automatically jump back to index if results are bad adding error? 
    
 
 ### Footer
