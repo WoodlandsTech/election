@@ -2,9 +2,31 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Ballot Check for Montgomery County</title>
+
+<link rel="stylesheet" href="wase.css">
+
 </head>
-<body>
+<body onload="getParams()" bgcolor="Beige" text="brown">
+	<script>
+		var first;
+		var last;
+		function getParams() {
+
+			const params = new URLSearchParams(document.location.search);
+			first = params.get("fname");
+			last = params.get("lname");
+			names.innerHTML += first + " " + last;
+		}
+	</script>
+
+	<div>
+		<h1>Voter 2020 Ballot Record Result</h1>
+		<H2>Montgomery County, TX</H2>
+		<h3 id="names">Ballot Information for:</h3>
+
+
+	</div>
 
 </body>
 </html>
