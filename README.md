@@ -1,5 +1,7 @@
 # MoCo 2020 Ballot Tracking Requirements
 
+Some of the files in this repo are just for my playing around with web / HTML since it has been a long time since doing any of this. 
+
 ## Data files
 1. Obtain files from MoCo election site: https://elections.mctx.org/EvHistoryFiles/GEN110320_12.07.2020.zip
 2. Unzip
