@@ -8,25 +8,62 @@
 
 </head>
 <body onload="getParams()" bgcolor="Beige" text="brown">
-	<script>
-		var first;
-		var last;
-		function getParams() {
-
-			const params = new URLSearchParams(document.location.search);
-			first = params.get("fname");
-			last = params.get("lname");
-			names.innerHTML += first + " " + last;
-		}
-	</script>
+	<script src="wase.js"></script>
 
 	<div>
 		<h1>Voter 2020 Ballot Record Result</h1>
 		<H2>Montgomery County, TX</H2>
-		<h3 id="names">Ballot Information for:</h3>
+		<h3>Ballot Information for</h3>
+		<H2 id="namesz"></H2>
+<!-- 		<H2 id="names"></H2> -->
 
-
+		<table>
+			<thead>
+				<tr>
+					<th>Election Name</th>
+					<th>Vote Type</th>
+					<th>Date Voted</th>
+					<th>Residence_Address</th>
+					<th>Residence_City</th>
+				</tr>
+			</thead>
+			<tr>
+				<td>Montgomery County</td>
+				<td>Voted Absentee by Mail</td>
+				<td>BBM Recvd Oct 15 2020 1:00PM</td>
+				<td>7 COACHMAN RIDGE PL</td>
+				<td>THE WOODLANDS</td>
+			</tr>
+			<tr>
+				<td>The Woodlands Township</td>
+				<td>Voted Absentee by Mail</td>
+				<td>BBM Recvd Oct 15 2020 1:00PM</td>
+				<td>7 COACHMAN RIDGE PL</td>
+				<td>THE WOODLANDS</td>
+			</tr>
+			<tr>
+				<td>Conroe Independent School District</td>
+				<td>Voted Absentee by Mail</td>
+				<td>BBM Recvd Oct 15 2020 1:00PM</td>
+				<td>7 COACHMAN RIDGE PL</td>
+				<td>THE WOODLANDS</td>
+			</tr>
+			<tr>
+				<td>Montgomery County Municipal Utility District 047</td>
+				<td>Voted Absentee by Mail</td>
+				<td>BBM Recvd Oct 15 2020 1:00PM</td>
+				<td>7 COACHMAN RIDGE PL</td>
+				<td>THE WOODLANDS</td>
+			</tr>
+		</table>
 	</div>
 
+	<footer>
+		Web site provided by <a href="https://www.meetup.com/Woodlands-Area-Software-Enthusiasts">Woodlands Area Software
+			Enthusiasts</a>
+		<br>
+		Not responsible for accuracy of data. Use with caution.
+		<br />
+	</footer>
 </body>
 </html>
