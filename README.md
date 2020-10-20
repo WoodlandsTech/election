@@ -24,7 +24,7 @@ Some of the files in this repo are just for my playing around with web / HTML si
 1. Show results on new web page?
 1. Show the found name.
 1. Show date of each status update
-2. Show the status of ballots as explained in [Rpster Fole Instructions](https://github.com/WoodlandsTech/election/blob/main/references/rosterfileinstructions.pdf)
+2. Show the status of ballots as explained in [Roster File Instructions](https://github.com/WoodlandsTech/election/blob/main/references/rosterfileinstructions.pdf)
 2. Show voting entities, i.e. election name column, e.g. CISD, Township, County? 
     
 #### Failed retrevial
